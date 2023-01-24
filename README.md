@@ -9,7 +9,7 @@
 </ul>
 <h2>Third Party Resources</h2>
 <ul>
-  <a href="https://atuin.ru/blog/nabor-animacij-animate-css/">animate.css</a>
+  <li><a href="https://atuin.ru/blog/nabor-animacij-animate-css/">Animate.css</a></li>
 </ul>
 <h2>Images</h2>
 <img src="images/readme/1.png" alt="page">
