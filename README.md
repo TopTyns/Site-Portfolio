@@ -7,6 +7,10 @@
   <li>JavaScript | 2.3%</li>
   <li>SCSS | 29.2%</li>
 </ul>
+<h2>Third Party Resources</h2>
+<ul>
+  <a href="https://atuin.ru/blog/nabor-animacij-animate-css/">animate.css</a>
+</ul>
 <h2>Images</h2>
 <img src="images/readme/1.png" alt="page">
 <img src="images/readme/2.png" alt="page">
